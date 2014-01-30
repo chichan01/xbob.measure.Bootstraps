@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+*~
+*.swp
+*.pyc
+bin
+eggs
+parts
+.installed.cfg
+.mr.developer.cfg
+*.egg-info
+src
+develop-eggs
+sphinx
+dist
+iterate.dat
+=======
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+>>>>>>> 4e3bdb2693182ff75a6365a4e86ef379f00b24f3
